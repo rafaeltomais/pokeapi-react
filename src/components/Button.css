@@ -1,0 +1,18 @@
+.button-container{
+    background-color: #0DD9EB;
+    border-radius: 6px;
+    box-shadow: 0 0 5px 0 rgba(0,0,0,0.2);
+    cursor: pointer;
+    width: 90px;
+    height: 30px;
+    font-size: 18px;
+    margin: 0 2px;
+}
+
+.button-container:focus{
+    color: black;
+}
+
+.button-container:hover{
+    font-weight: bold;
+}

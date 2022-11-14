@@ -1,0 +1,31 @@
+.info-container{
+    margin: 20px auto;
+    min-height: 100px;
+    width: 450px;
+    padding: 30px;
+    border-radius: 10px;
+    background-color: #F2DBAE;
+  }
+
+li {
+    list-style-type: none;
+    text-align: left;
+  }
+
+ul{
+    background-color: #e9e9e9;
+    width: 100%;
+    border-radius: 15px;
+    padding: 10px;
+    display: table-cell;
+  }
+
+div.lista{
+  height:150px;
+  display: inline-block;
+}
+
+.change-pokemon {
+  display: block;
+  position: flex;
+}
