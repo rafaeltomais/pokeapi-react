@@ -1,4 +1,4 @@
-<a href="https://rafaeltomais.github.io/pokeapi-react/public/index">Acesse o ecercicio</a>
+<a href="https://rafaeltomais.github.io/pokeapi-react-site">Acesse o ecercicio</a>
 
 # Getting Started with Create React App
 
