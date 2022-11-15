@@ -11,7 +11,7 @@ const SearchPokemon = ({handleGetInfo, setPokemon}) => {
   };
 
   const handleSearch = () => {
-    handleGetInfo(inputNamePokemon);
+    handleGetInfo(inputNamePokemon.toLowerCase());
     setInputNamePokemon('')
     };
 
