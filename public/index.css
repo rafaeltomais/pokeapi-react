@@ -32,7 +32,8 @@ header {
     color: black;
     background-color: var(--color04);
     text-align: center;
-    height: 170px;
+    height: 200px;
+    position: relative;
 }
 
 header h1 {
@@ -40,12 +41,16 @@ header h1 {
     line-height: 65px;
     color: var(--color05);
     font-size: 1.7em;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -60%);
 }
 
 main{
     margin: auto;
     max-width: 1000px;
-    height: 500px;
+    height: 470px;
     background-color: var(--color03);
     border-radius: 0 0 10px 10px;
     box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.356);
